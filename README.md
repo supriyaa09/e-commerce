@@ -30,3 +30,6 @@ npm run dev
 - shadcn/ui
 - Vitest
 - Playwright
+
+
+hosted: https://e-commerce-a80cf.web.app/
